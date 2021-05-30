@@ -1,0 +1,85 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+header
+{
+}
+
+nav
+{
+	position: absolute;
+	/* do fixed for the nav to scroll down*/
+	width: 100%;
+	border: 7px;
+}
+
+span
+{
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+p
+{
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
+h3
+{
+	font-weight: bolder;
+	margin-bottom: 30px;
+}
+
+#header-nav
+{
+	background-color: grey;
+	border-color: black;
+	border-radius: 0px;
+	margin: 0;
+	padding: 0;
+	border: 7;
+}
+
+
+.container
+{
+	border: 2px;
+}
+
+.navbar-header
+{
+	margin-top: 5px;
+	border: 7px;
+}
+
+.gr
+{
+	background-color: grey;
+}
+
+.row
+{
+	width: 100%;
+}
+
+.container
+{
+	/*background-color: red;*/
+}
+
+.up
+{
+	margin-top: -43px;
+	margin-bottom: 20px;
+}
+
+.top-gap
+{
+	margin-top: 40px;
+}
